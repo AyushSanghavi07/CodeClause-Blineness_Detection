@@ -1,5 +1,5 @@
 # CodeClause_Blindness Detection
-# By, Somil Doshi
+# By, Ayush Sanghavi
 
 <h1>Solution To Diabetic Retinopathy Detection </h1>
  <h3>
