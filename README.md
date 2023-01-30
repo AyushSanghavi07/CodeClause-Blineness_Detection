@@ -1,9 +1,6 @@
 # CodeClause_Blindness Detection
 # By, Ayush Sanghavi
 
-<h1>Solution To Diabetic Retinopathy Detection </h1>
-
- <br>
  <h2>DATASET DESCRIPTION</h2>
  You are provided with a large set of high-resolution retina images taken under a variety of imaging conditions. A left and right field is provided for every subject. Images are labeled with a subject id as well as either left or right (e.g. 1_left.jpeg is the left eye of patient id 1).
 
@@ -28,5 +25,5 @@ Like any real-world data set, you will encounter noise in both the images and la
 
 <h1>Approach To Blindness Detection </h1>
 <h3>MODEL :CNN ALGORITHM</h3>
-<h3>PLATFORM :GOOGLE COLLAB</h3>
+<h3>PLATFORM :Juputer Notebook</h3>
 <h3>DATASET :KAGGLE</h3>
