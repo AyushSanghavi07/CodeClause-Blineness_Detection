@@ -2,13 +2,7 @@
 # By, Ayush Sanghavi
 
 <h1>Solution To Diabetic Retinopathy Detection </h1>
- <h3>
- <ul>
- <li>RED DOTS(microaneurysms)</li>
- <li>YELLOW "FLAKES"</li>
- <li>INCREASE IN BLOOD VESSEL</li>
- </ul>
- </h3>
+
  <br>
  <h2>DATASET DESCRIPTION</h2>
  You are provided with a large set of high-resolution retina images taken under a variety of imaging conditions. A left and right field is provided for every subject. Images are labeled with a subject id as well as either left or right (e.g. 1_left.jpeg is the left eye of patient id 1).
