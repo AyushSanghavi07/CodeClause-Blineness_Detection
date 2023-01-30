@@ -24,6 +24,5 @@ If there is a notch on the side of the image (square, triangle, or circle) then 
 Like any real-world data set, you will encounter noise in both the images and labels. Images may contain artifacts, be out of focus, underexposed, or overexposed. A major aim of this competition is to develop robust algorithms that can function in the presence of noise and variation.
 
 <h1>Approach To Blindness Detection </h1>
-<h3>MODEL :CNN ALGORITHM</h3>
 <h3>PLATFORM :Juputer Notebook</h3>
 <h3>DATASET :KAGGLE</h3>
