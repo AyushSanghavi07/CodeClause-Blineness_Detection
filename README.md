@@ -1,4 +1,4 @@
-# CodeClause_Blindness Detection
+# Blindness Detection
 # By, Ayush Sanghavi
 
  <h2>DATASET DESCRIPTION</h2>
